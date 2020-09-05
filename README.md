@@ -50,3 +50,5 @@ Here are some ideas to get you started:
 <br />
 <br />
 
+[twitter]: https://twitter.com/jalajvora
+[linkedin]: https://www.linkedin.com/in/jalajvora/

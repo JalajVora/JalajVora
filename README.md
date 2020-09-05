@@ -6,6 +6,7 @@
 **JalajVora/JalajVora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on Computer Vision, Machine Learning, Explainable AI, Deep Learning and Natural Language Processing are to name a few!
 - 🌱 I’m currently learning AI in Medicine
@@ -15,7 +16,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Email](jalajvora79@gmail.com)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Christopher Nolan actually crashed an Airplane for Tenet! 😮
--->
+
 
 
 

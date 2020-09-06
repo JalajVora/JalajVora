@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on anything with a bias of Data Science
 - 🤔 I’m looking for help with Computer Vision methodologies
 - 💬 Ask me about Data, Movies, Spirituality!
-- 📫 How to reach me: [Email](jalajvora79@gmail.com)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: Christopher Nolan actually crashed an Airplane for Tenet! 😮
+- 📫 How to reach me: [📧](mailto::jalajvora79@gmail.com)
 
 
 

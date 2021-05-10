@@ -51,3 +51,4 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/jalajvora
 [linkedin]: https://www.linkedin.com/in/jalajvora/
 [github]: https://github.com/JalajVora/
+[xing]: https://www.xing.com/profile/Jalaj_Vora/cv

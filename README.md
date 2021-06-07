@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Machine Learning, Explainable AI, Deep Learning and Natural Language Processing are to name a few!
-- 🌱 I’m currently learning Natural Language Processing
+- 🌱 I’m currently learning Data Engineering
 - 👯 I’m looking to collaborate on anything with a bias of Data Science
 <!-- - 🤔 I’m looking for help with Computer Vision methodologies -->
 - 💬 Ask me about Data, Movies, Spirituality!

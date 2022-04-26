@@ -6,10 +6,9 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Machine Learning, Explainable AI, Deep Learning and Natural Language Processing are to name a few!
+- 🔭 I’m currently working on leveraging Machine Learning, Explainable AI into Finance & Business!
 - 🌱 I’m currently learning Data Engineering
 - 👯 I’m looking to collaborate on anything with a bias of Data Science
-<!-- - 🤔 I’m looking for help with Computer Vision methodologies -->
 - 💬 Ask me about Data, Movies, Spirituality!
 - 📫 How to reach me: [📧](mailto::jalajvora79@gmail.com)
 

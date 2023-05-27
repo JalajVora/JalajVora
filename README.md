@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on leveraging Machine Learning, Explainable AI into Finance & Business!
+- 🔭 I’m currently working on leveraging Data Science into Business!
 - 🌱 I’m currently learning Data Engineering
 - 👯 I’m looking to collaborate on anything with a bias of Data Science
 - 💬 Ask me about Data, Movies, Spirituality!

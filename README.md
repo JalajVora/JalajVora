@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on leveraging Data Science into Business!
 - 🌱 I’m currently learning Data Engineering
 - 👯 I’m looking to collaborate on anything with a bias of Data Science
-- 💬 Ask me about Data, Movies, Spirituality!
+- 💬 Ask me about Data Science/ BI, Movies, Spirituality!
 - 📫 How to reach me: [📧](mailto::jalajvora79@gmail.com)
 
 
